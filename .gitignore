@@ -1,0 +1,4 @@
+.stack-work/
+frontend-haskell.cabal
+*~
+yesod-devel/
