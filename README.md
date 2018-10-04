@@ -2,6 +2,10 @@
 
 An example of modern frontend development with haskell using EDSL.
 
+![demo](https://camo.qiitausercontent.com/bd552e32dd1a4b818e743ab09c68dcd333c06eef/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f3239373933302f64316261636335662d323835362d373665612d383365612d6335313033376339396164642e676966)
+
+- [Haskellのフロントエンド開発をEDSLでモダンにする](https://qiita.com/peus/items/8badef3e6e0b03b1e790)
+
 ## Feature
 
 - Use Lucid, Clay, Sunroof (※temp) for EDSL
